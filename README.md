@@ -1,12 +1,37 @@
-Computational Intelligence Project
-Overview
-This project is part of CSE473: Computational Intelligence course at Faculty of egnieering Ain shams unversuty  
+# Computational Intelligence Project  
 
-consists of two milestones:
+## Overview  
+This project is part of **CSE473: Computational Intelligence** course at the **Faculty of Engineering, Ain Shams University**.  
 
-Milestone 1: Comparison of optimization algorithms (SGDR, NAG, RMSProp, Nadam, and Learning Rate Schedulers) using CIFAR-10 with a shallow neural network. Training time, accuracy, and loss are recorded.
+The project consists of two milestones:  
 
-Milestone 2: Implementation of encoder-decoder networks (Autoencoder, Variational Autoencoder, Convolutional Autoencoder) for face recognition using CASIA-WebFace or FRGC datasets, with performance comparison and visualization.
+### Milestone 1: Optimization Algorithms on CIFAR-10  
+- Comparison of optimization algorithms:  
+  - **Stochastic Gradient Descent with Warm Restarts (SGDR)**  
+  - **Nesterov Accelerated Gradient (NAG)**  
+  - **RMSProp**  
+  - **Nadam**  
+  - **Learning Rate Schedulers** (Exponential Decay, Step Decay)  
+- Dataset: **CIFAR-10**  
+- Model: **Shallow Neural Network**  
+- Metrics recorded:  
+  - Training Time  
+  - Accuracy  
+  - Loss  
 
+### Milestone 2: Encoder-Decoder Networks for Face Recognition  
+- Implementation of different architectures:  
+  - **Autoencoder**  
+  - **Variational Autoencoder (VAE)**  
+  - **Convolutional Autoencoder (CAE)**  
+- Datasets:  
+  - **CASIA-WebFace**  
+  - **FRGC**  
+- Tasks:  
+  - Performance Comparison  
+  - Visualization of Results  
 
-You canf finde more details in   PROJECT DESCRIPTION 
+---
+
+## Project Description  
+Further details and requirements can be found in the **Project Description** document provided with the course.
